@@ -1,2 +1,2 @@
-# gis710_class_example
+# GIS710 class example
 Open science lecture example
